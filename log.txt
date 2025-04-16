@@ -1,1 +1,6 @@
 
+Compiling...
+Running denoising and recovery...
+Denoising completed. Results saved in output/denoised_signal.csv
+Recovery completed. Results saved in output/recovered_signal.csv
+Processing completed.
